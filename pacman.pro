@@ -10,8 +10,24 @@ CONFIG += c++17
 
 SOURCES += \
     main.cpp \
+    Game.cpp \
+    Pacman.cpp \
+    Ghost.cpp \
+    SmallPoint.cpp \
+    BigPoint.cpp \
+    PlayGround.cpp \
+    Cherry.cpp \
+    Score.cpp
 
 HEADERS += \
+    Game.h \
+    Ghost.h \
+    Pacman.h \
+    SmallPoint.h \
+    BigPoint.h \
+    PlayGround.h \
+    Cherry.h \
+    Score.h
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin

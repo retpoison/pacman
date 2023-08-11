@@ -1,0 +1,23 @@
+19
+21
+###################
+#aaaaaaaa#aaaaaaaa#
+#A##a###a#a###a##A#
+#aaaaaaaaaaaaaaaaa#
+#a##a#a#####a#a##a#
+#aaaa#aaa#aaa#aaaa#
+####a### # ###a####
+!!!#a#   G   #a#!!!
+####a# ##-## #a####
+    a  #GGG#  a    
+####a# ##### #a####
+!!!#a#   C   #a#!!!
+####a# ##### #a####
+#aaaaaaaa#aaaaaaaa#
+#a##a###a#a###a##a#
+#Aa#aaaaaPaaaaa#aA#
+##a#a#a#####a#a#a##
+#aaaa#aaa#aaa#aaaa#
+#a######a#a######a#
+#aaaaaaaaaaaaaaaaa#
+###################

@@ -7,4 +7,5 @@ A simple pacman qith c++ and Qt. (unfinished)
 ```
 qmake
 make
-./pacman```
+./pacman
+```

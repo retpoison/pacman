@@ -4,6 +4,8 @@ A simple pacman with Qt. (unfinished)
 
 ## Installation
 
-```qmake
+```
+qmake
 make
-./pacman```
+./pacman
+```

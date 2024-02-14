@@ -1,6 +1,6 @@
 # pacman
 
-A simple pacman qith c++ and Qt. (unfinished)
+A simple pacman with Qt. (unfinished)
 
 ## Installation
 
